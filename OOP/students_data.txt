@@ -1,0 +1,25 @@
+ID,Tên,Tuổi,Giới tính,Nơi sinh,Chuyên ngành,GPA,Đề tài luận văn
+SV001,Nguyễn Văn Anh,20,Nam,Hà Nội,Công nghệ thông tin,3.8
+SV002,Trần Thị Bình,19,Nữ,Hồ Chí Minh,Kinh tế,3.5
+SV003,Lê Văn Cường,21,Nam,Đà Nẵng,Kỹ thuật điện,3.9
+SV004,Phạm Thị Dung,20,Nữ,Hải Phòng,Ngôn ngữ Anh,3.2
+SV005,Hoàng Văn Em,22,Nam,Cần Thơ,Công nghệ thông tin,2.8
+SV006,Võ Thị Phương,19,Nữ,Hà Nội,Y học,3.7
+SV007,Đặng Văn Giang,23,Nam,Huế,Luật,3.4
+SV008,Bùi Thị Hoa,20,Nữ,Hồ Chí Minh,Kinh tế,3.1
+SV009,Trịnh Văn Ích,21,Nam,Đà Nẵng,Kỹ thuật điện,2.9
+SV010,Lý Thị Kim,18,Nữ,Hải Phòng,Công nghệ thông tin,3.6
+GS001,Nguyễn Văn Long,24,Nam,Hà Nội,Công nghệ thông tin,3.9,Nghiên cứu trí tuệ nhân tạo
+GS002,Trần Thị Mai,23,Nữ,Hồ Chí Minh,Kinh tế,3.8,Phân tích thị trường chứng khoán
+GS003,Lê Văn Nam,25,Nam,Đà Nẵng,Y học,3.7,Nghiên cứu gen và di truyền
+SV011,Phan Thị Oanh,19,Nữ,Cần Thơ,Ngôn ngữ Anh,3.3
+SV012,Đinh Văn Phúc,20,Nam,Huế,Luật,2.7
+SV013,Vũ Thị Quỳnh,21,Nữ,Hà Nội,Y học,3.5
+SV014,Cao Văn Rồng,22,Nam,Hồ Chí Minh,Kỹ thuật điện,3.0
+SV015,Dương Thị Sương,18,Nữ,Đà Nẵng,Công nghệ thông tin,3.8
+SV016,Tạ Văn Tâm,20,Nam,Hải Phòng,Kinh tế,2.6
+SV017,Lương Thị Uyên,19,Nữ,Cần Thơ,Ngôn ngữ Anh,3.4
+SV018,Hồ Văn Vinh,21,Nam,Huế,Luật,3.2
+SV019,Chu Thị Xuân,20,Nữ,Hà Nội,Y học,3.6
+SV020,Lại Văn Yên,22,Nam,Hồ Chí Minh,Công nghệ thông tin,2.9
+
