@@ -1,0 +1,37 @@
+[
+  {
+    "ID": 1,
+    "TenSanPham": "Laptop Dell XPS",
+    "Loai": "Thiet bi dien tu",
+    "SoLuongTon": 15,
+    "GiaBan": 25000000.0
+  },
+  {
+    "ID": 2,
+    "TenSanPham": "Ao thun polo",
+    "Loai": "Thoi trang",
+    "SoLuongTon": 200,
+    "GiaBan": 350000.0
+  },
+  {
+    "ID": 3,
+    "TenSanPham": "May hut bui thong minh",
+    "Loai": "Do gia dung",
+    "SoLuongTon": 8,
+    "GiaBan": 7200000.0
+  },
+  {
+    "ID": 4,
+    "TenSanPham": "Sach lap trinh Python",
+    "Loai": "Van phong pham",
+    "SoLuongTon": 50,
+    "GiaBan": 300000.0
+  },
+  {
+    "ID": 5,
+    "TenSanPham": "Tai nghe khong day",
+    "Loai": "Thiet bi dien tu",
+    "SoLuongTon": 0,
+    "GiaBan": 1500000.0
+  }
+]

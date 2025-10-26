@@ -1,0 +1,107 @@
+ID,TenSanPham,SoLuong,GiaTri
+ID,TenSanPham,SoLuong,GiaTri
+1,Laptop Dell,10,25000000
+2,Chuot khong day,50,350000
+3,Man hinh 27 inch,15,
+4,Ban phim co,25,1800000
+5,Webcam HD,5,800000
+6,Loa Bluetooth,30,1200000
+7,O cung ngoai 1TB,12,1500000
+8,Tai nghe gaming,45,950000
+9,Router Wi-Fi 6,8,2200000
+10,May in laser,2,4000000
+11,Ban di chuot lon,100,150000
+12,Sac du phong 10000mAh,60,450000
+13,The nho MicroSD 64GB,200,200000
+14,Den LED RGB,75,300000
+15,Bo ve sinh laptop,90,120000
+16,May chieu mini,3,5500000
+17,Camera an ninh,18,1800000
+18,Cap HDMI 2.0,150,100000
+19,But cam ung,25,750000
+20,Ba lo laptop,40,650000
+21,Phan mem diet virus,50,490000
+22,Ghe van phong,10,2800000
+23,May huy tai lieu,1,3200000
+24,Ban lam viec gap,15,900000
+25,Gia do dien thoai,120,80000
+26,Bo dung cu sua chua,8,1250000
+27,May doc sach,4,3000000
+28,May anh DSLR,1,18000000
+29,Ong kinh tele,1,12000000
+30,Pin may anh,5,400000
+31,Chan may anh tripod,15,600000
+32,Tui dung may anh,20,450000
+33,Sach lap trinh Python,70,350000
+34,Sach ky nang mem,80,250000
+35,But bi cao cap,200,50000
+36,Giay in A4 (ream),300,75000
+37,Tu dung ho so,3,4500000
+38,May tinh bang,10,7000000
+39,Dong ho thong minh,25,3500000
+40,Binh giu nhiet,150,180000
+41,Hop com van phong,120,220000
+42,Coc su in logo,500,50000
+43,Khan lau da nang,400,30000
+44,Nuoc rua tay,60,90000
+45,May loc khong khi,5,6000000
+46,Quat dien dung,12,750000
+47,May xay sinh to,8,1200000
+48,Noi com dien,15,950000
+49,Bep tu don,10,1500000
+50,Bo dao nha bep,20,550000
+51,Tham yoga,30,400000
+52,Day nhay the duc,70,150000
+53,Ta tay 5kg,10,600000
+54,Bong da size 5,18,300000
+55,Vot cau long,40,450000
+56,Giay chay bo,5,1800000
+57,Ao phong the thao,80,250000
+58,Quan short,70,200000
+59,Kinh boi,15,280000
+60,Mu boi,25,150000
+61,Gang tay tap gym,30,220000
+62,Binh nuoc the thao,90,100000
+63,Thuc pham chuc nang,50,600000
+64,Kem chong nang,120,250000
+65,Sua rua mat,80,180000
+66,Dau goi dau,150,150000
+67,Ban chai dien,10,850000
+68,May cao rau,5,1200000
+69,Nuoc hoa,15,900000
+70,Tui xach da,8,2500000
+71,Vi da nam,20,700000
+72,That lung da,18,550000
+73,Kinh mat,30,400000
+74,Khan quang co,50,150000
+75,Ao so mi trang,40,450000
+76,Quan tay,35,500000
+77,Vay dam,12,800000
+78,Ao khoac gio,20,650000
+79,Ung di mua,5,300000
+80,Du che mua,60,120000
+81,Bo ga goi niem,10,1500000
+82,Chan long cuu,15,850000
+83,Goi om,40,200000
+84,Rem cua chong nang,8,450000
+85,Cay canh mini,100,90000
+86,Bot giat,200,120000
+87,Nuoc xa vai,150,80000
+88,Tui rac tu huy,300,45000
+89,Choi lau nha thong minh,12,350000
+90,Hoa chat tay rua,50,180000
+91,Bo am chen,15,700000
+92,Lo hoa gom,20,250000
+93,Tranh treo tuong,10,600000
+94,Tham trai san,5,950000
+95,Dung cu lam vuon,8,400000
+96,May bom nuoc mini,2,1500000
+97,Bo do nghe dien tu,5,800000
+98,Keo dan da nang,70,50000
+99,Bang dinh dien,100,30000
+100,Day cap mang LAN,200,150000
+101,Tu lanh 2 canh,1,10000000
+102,May giat cua truoc,1,8500000
+103,May say quan ao,1,7200000
+115,Loa Bluetooth,30,1200000
+116,May tinh bang,20,4500000
